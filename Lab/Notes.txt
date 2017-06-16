@@ -9,7 +9,7 @@ Modus Tollens:
 If p then q.
  	 ∼q
 	•∼p
-			
+
 Notes: three of the most important statements
 universal statement == says that a certain property is true for all elements in a set ( eg, all positive numbers are greater than zero)
 conditional statement == says that if one thing is true then some other thing also has to be true ( eg, if 378 is divisible by 18, then 378 is divisible by 6)
